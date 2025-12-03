@@ -6,6 +6,15 @@ City of Austin. The repository includes data preparation scripts, modeling noteb
 generated figures, and train/validation/test splits.
 
 --------------------------------------------------------------------------------
+GITHUB REPOSITORY
+--------------------------------------------------------------------------------
+All files contained in this project folde are available in the GitHub repository below:
+
+https://github.com/bryant-willoughby/ST-507-Data-Science-Analytics-Using-Python/tree/main/Project 
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
 DATA FILES
 --------------------------------------------------------------------------------
 austin_micromobility.csv
@@ -70,15 +79,6 @@ FinalMLP.ipynb
     - Generates FinalMLP.png.
     - Produces the best-performing model in the entire project.
 
---------------------------------------------------------------------------------
-GITHUB REPOSITORY
---------------------------------------------------------------------------------
-All files contained in this project folder—data splits, figures, and notebooks—
-are available in the GitHub repository below:
-
-https://github.com/bryant-willoughby/ST-507-Data-Science-Analytics-Using-Python
-
---------------------------------------------------------------------------------
 INSTRUCTIONS
 --------------------------------------------------------------------------------
 To reproduce results:
